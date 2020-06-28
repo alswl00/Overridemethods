@@ -46,6 +46,8 @@ namespace Overridemethos
             Console.WriteLine(Power(2, 10));
             Console.WriteLine(SumAll(10));
             Console.WriteLine(SumAll(4, 10));
+
+
         }
     }
 }
